@@ -4,21 +4,13 @@ The [OpenROAD MCP Server](https://github.com/luarss/openroad-mcp) is a Model Con
 
 ## Table of Contents
 
-- [About OpenROAD MCP](#about-openroad-mcp)
 - [Project Ideas by Size](#project-ideas-by-size)
   - [Small Projects (90 hours)](#small-projects-90-hours)
     - [Docker Deployment and Cross-Platform Support](#docker-deployment-and-cross-platform-support)
-    - [Developer Experience and Documentation](#developer-experience-and-documentation)
   - [Medium Projects (175 hours)](#medium-projects-175-hours)
     - [Production-Ready Testing and Quality Assurance](#production-ready-testing-and-quality-assurance)
-    - [VS Code and IDE Integration](#vs-code-and-ide-integration)
-    - [Performance Optimization and Scalability](#performance-optimization-and-scalability)
   - [Large Projects (350 hours)](#large-projects-350-hours)
     - [Flow Orchestration and Design Space Exploration](#flow-orchestration-and-design-space-exploration)
-    - [Web Dashboard and Visualization Interface](#web-dashboard-and-visualization-interface)
-    - [AI-Powered Command Completion and Error Recovery](#ai-powered-command-completion-and-error-recovery)
-- [How to Get Involved](#how-to-get-involved)
-- [Mentors](#mentors)
 
 ---
 

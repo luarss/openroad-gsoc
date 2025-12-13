@@ -185,11 +185,8 @@ Everything's on GitHub under The-OpenROAD-Project organization:
 
 ## Link to your Ideas List (this is the most important part of the application!)
 
-- **Primary location**: https://the-openroad-project.github.io/[ideas-repo]
+- **Primary location**: https://github.com/luarss/openroad-gsoc/blob/main/2026/projects.md
 
-**Project Categories:**
-
-TBC
 
 # References
 - https://google.github.io/gsocguides/mentor/org-application.html#whats-on-the-application
