@@ -9,6 +9,8 @@ The [OpenROAD MCP Server](https://github.com/luarss/openroad-mcp) is a Model Con
     - [Docker Deployment and Cross-Platform Support](#docker-deployment-and-cross-platform-support)
   - [Medium Projects (175 hours)](#medium-projects-175-hours)
     - [Production-Ready Testing and Quality Assurance](#production-ready-testing-and-quality-assurance)
+    - [ORAssistant - LLM Data Engineering and Testing](#orassistant---llm-data-engineering-and-testing)
+    - [ORAssistant - LLM Model Engineering](#orassistant---llm-model-engineering)
   - [Large Projects (350 hours)](#large-projects-350-hours)
     - [Flow Orchestration and Design Space Exploration](#flow-orchestration-and-design-space-exploration)
 
@@ -81,6 +83,81 @@ This is essential for v1.0 credibility and production adoption. Real workflow te
 - Performance engineering and profiling techniques
 - Understanding chip design flows (ORFS)
 - Building quality assurance infrastructure
+
+---
+
+#### ORAssistant - LLM Data Engineering and Testing
+
+**Difficulty:** Medium
+**Skills:** Large language model engineering, database, evaluation, CI/CD, open-source or related software development, full-stack
+**Topics:** `Large Language Model`, `Machine Learning`, `Data Engineering`, `Model Deployment`, `Testing`, `Full-Stack Development`
+
+**Overview:**
+This project is aimed at enhancing robustness and accuracy for ORAssistant, the conversational assistant for OpenROAD through comprehensive testing and evaluation. You will work with members of the OpenROAD team and other researchers to enhance the existing dataset to cover a wide range of use cases to deliver accurate responses more efficiently.
+
+**Goals:**
+- Create evaluation pipelines for comprehensive testing
+- Build upon existing NoSQL databases to gather user feedback
+- Improve CI/CD pipelines
+- Write comprehensive documentation
+- Improve backend and frontend services as needed
+- Collaborate with the LLM model engineering team
+
+**Deliverables:**
+- Evaluation pipeline infrastructure with automated testing
+- Feedback database system for continuous improvement
+- Enhanced CI/CD workflows
+- Comprehensive documentation covering data engineering aspects
+- Backend and frontend improvements based on testing insights
+
+**Impact:**
+This project focuses on data engineering and benchmarking, ensuring OR Assistant delivers accurate responses efficiently across diverse use cases. The evaluation infrastructure and feedback systems will enable continuous improvement of the assistant's quality and reliability. This is critical for production adoption and user trust.
+
+**Learning outcomes:**
+- Large language model evaluation and benchmarking techniques
+- Data engineering for ML systems
+- Building feedback loops for AI systems
+- Understanding chip design flows and applications
+- Open-source software development best practices
+- Full-stack development for ML applications
+
+---
+
+#### ORAssistant - LLM Model Engineering
+
+**Difficulty:** Medium
+**Skills:** Large language model engineering, prompt engineering, fine-tuning
+**Topics:** `Large Language Model`, `Machine Learning`, `Model Architecture`, `Model Deployment`
+
+**Overview:**
+This project is aimed at enhancing robustness and accuracy for ORAssistant, the conversational assistant for OpenROAD through enhanced model architectures. You will work with members of the OpenROAD team and other researchers to explore alternate architectures beyond the existing RAG-based implementation.
+
+**Goals:**
+- Review and understand state-of-the-art in retrieval augmented generation (RAG)
+- Implement RAG best practices and optimizations
+- Implement prompt caching for improved efficiency
+- Improve relevance and accuracy metrics
+- Improve backend and frontend services as needed
+- Collaborate with the data engineering team
+
+**Deliverables:**
+- Enhanced RAG architecture with state-of-the-art techniques
+- Prompt caching implementation for cost and latency reduction
+- Improved accuracy and relevance metrics with measurement framework
+- Comprehensive documentation covering model architecture
+- Backend and frontend improvements supporting new architecture
+
+**Impact:**
+This project focuses on improving the reliability and accuracy of the existing model architecture. By implementing state-of-the-art RAG techniques and optimizations, the assistant will provide more accurate and relevant responses. Prompt caching will significantly reduce costs and latency, making the system more scalable and responsive.
+
+**Learning outcomes:**
+- State-of-the-art retrieval augmented generation techniques
+- Prompt engineering and optimization strategies
+- Large language model fine-tuning approaches
+- Understanding chip design flows and applications
+- Model deployment and production ML systems
+- Measuring and improving AI system quality
+
 ---
 
 ### Large Projects (350 hours)
